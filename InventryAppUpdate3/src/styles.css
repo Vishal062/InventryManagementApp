@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.margin10 {
+  margin: 10px;
+}
+.margin10 > button {
+  margin: 10px;
+  margin-bottom: 40px;
+}
+.list {
+  border: 1px solid black;
+  margin: 10px 300px 10px 300px;
+  background-color: red;
+  padding: 0px 0px 10px 0px;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.updated {
+  color: green;
+  font-size: 20px;
+  text-decoration: line-through;
+}
